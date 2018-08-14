@@ -1,4 +1,9 @@
 # mercado-dev
 ## ReactJS + Firebase
 
-Projeto do Hands-on do Devpleno
+Run
+<code>yarn</code>
+or
+<code>npm install</code>
+
+Devpleno Hands-on project
